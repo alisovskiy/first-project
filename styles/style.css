@@ -298,7 +298,7 @@
   min-height: 250px;
   display: flex;
 }
-.footer__columns1 {
+.footer__column_content_links {
   display: flex;
   flex-basis: 711px;
   justify-content: space-between;
